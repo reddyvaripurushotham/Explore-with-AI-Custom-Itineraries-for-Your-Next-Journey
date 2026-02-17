@@ -1,0 +1,2 @@
+# Explore-with-AI-Custom-Itineraries-for-Your-Next-Journey
+TravelGuideAI is an AI-powered cloud app that creates personalized travel itineraries using NLP. It generates tailored daily plans, attractions, and dining options based on user preferences. Designed for travelers, agencies, and travel platforms, it automates trip planning, boosts efficiency, and delivers engaging travel content effortlessly.
