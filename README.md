@@ -42,13 +42,14 @@ gemini-1.5-pro
 - Gemini API
 
 ## Project Structure
-
 ```
-AI-Travel-Planner/
-├── app.py
+Explore-With-AI/
+├── Travel.py
 ├── requirements.txt
 ├── README.md
-└── output.png
+├── output.png
+├── Output.py
+└── Source Code.py
 ```
 
 ## How to Run
@@ -100,6 +101,7 @@ SmartBridge Virtual Internship
 AI & Cloud Application Development
 
 ```
+
 
 
 
