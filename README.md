@@ -1,2 +1,17 @@
-# Explore-with-AI-Custom-Itineraries-for-Your-Next-Journey
-TravelGuideAI is an AI-powered cloud app that creates personalized travel itineraries using NLP. It generates tailored daily plans, attractions, and dining options based on user preferences. Designed for travelers, agencies, and travel platforms, it automates trip planning, boosts efficiency, and delivers engaging travel content effortlessly.
+# AI Travel Planner
+
+## Activity 2.2 - Gemini API Configuration
+- Generated API key from Google AI Studio
+- Integrated Gemini API using google-genai SDK
+- Successfully generated travel itinerary output
+
+## Activity 2.3 - Model Selection
+Selected Model: gemini-1.5-pro
+
+Reason for selection:
+- High-quality text generation
+- Suitable for itinerary planning
+- Better reasoning capability
+- Stable and supported model
+
+Project Status: Working Successfully
