@@ -1,32 +1,31 @@
-# AI Travel Planner
+# Explore with AI: Custom Itineraries for Your Next Journey
 
-## Activity 2.2 - Gemini API Configuration
-- Generated API key from Google AI Studio
-- Integrated Gemini API using google-genai SDK
-- Successfully generated travel itinerary output
+## Project Description
+AI Travel Planner generates customized travel itineraries using Google Gemini AI model.
 
-## Activity 2.3 - Model Selection
-Selected Model: gemini-1.5-pro
+## Features
+- User inputs destination
+- User inputs number of days
+- Generates detailed itinerary
+- Includes morning, afternoon, evening plan
+- Travel tips and food suggestions
 
-Reason for selection:
-- High-quality text generation
-- Suitable for itinerary planning
-- Better reasoning capability
-- Stable and supported model
-
-Project Status: Working Successfully
-
-## Activity 2.3 – Define the Model to be Used
-
-### Selected Model:
+## Model Used
 gemini-1.5-pro
 
-### Reason for Selection:
-- Provides high-quality text generation
-- Good reasoning capability
-- Suitable for structured travel itinerary creation
-- Generates detailed multi-day plans
-- Officially supported and stable model
+## Technologies Used
+- Python
+- Google GenAI SDK
+- Gemini API
 
-### Application in Project:
-The model is used to generate personalized travel itineraries based on user input such as destination and number of days.
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run:
+   python app.py
+
+3. Enter destination and number of days
+
+## Example Output
+3-Day Travel Plan for Goa including beach visits, sightseeing, food recommendations, and travel tips.
