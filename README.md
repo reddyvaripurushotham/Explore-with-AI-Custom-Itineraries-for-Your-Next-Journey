@@ -42,7 +42,6 @@ gemini-1.5-pro
 - Gemini API
 
 ## Project Structure
-## Project Structure
 
 ```
 AI-Travel-Planner/
@@ -96,8 +95,11 @@ The project reflects:
 - P Raghava Sai
 - B Poorna Chandra
 
+```
 SmartBridge Virtual Internship
 AI & Cloud Application Development
+
+```
 
 
 
