@@ -42,12 +42,7 @@ gemini-1.5-pro
 - Gemini API
 
 ## Project Structure
-AI-Travel-Planner/
-│
-├── Travel.py
-├── requirements.txt
-├── README.md
-└── output.png
+AI-Travel-Planner/ ├── app.py ├── requirements.txt ├── README.md └── output.png
     
 ## How to Run
 1. Install dependencies:
@@ -93,6 +88,7 @@ The project reflects:
 - P Raghava Sai
 - B Poorna Chandra
 
-- SmartBridge Virtual Internship
-- AI & Cloud Application Development
+SmartBridge Virtual Internship
+AI & Cloud Application Development
+
 
