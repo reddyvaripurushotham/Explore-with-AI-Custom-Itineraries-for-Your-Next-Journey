@@ -29,3 +29,4 @@ gemini-1.5-pro
 
 ## Example Output
 3-Day Travel Plan for Goa including beach visits, sightseeing, food recommendations, and travel tips.
+
