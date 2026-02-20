@@ -43,13 +43,23 @@ gemini-1.5-pro
 
 ## Project Structure
 ```
-Explore-With-AI/
-├── Travel.py
+Explore-with-AI-Custom-Itineraries/
+│
+├── app/                                 # Main code
+│   ├── travel.py                         # (your Travel.py moved here)
+│
+├── docs/                                # All documentation
+│   ├── project_documentation/            # reports + demo
+│   │   ├── report.pdf
+│   │   └── demo_video.mp4
+│   │
+│   └── submission_requirements/          # tasks + assessment
+│       └── requirements.md
+│
+├── .gitignore
 ├── requirements.txt
-├── README.md
-├── output.png
-├── Output.py
-└── Source Code.py
+├── README.md                                
+
 ```
 
 ## How to Run
@@ -101,6 +111,7 @@ SmartBridge Virtual Internship
 AI & Cloud Application Development
 
 ```
+
 
 
 
