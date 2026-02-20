@@ -1,8 +1,0 @@
-Streamlit
-openai
-requests
-
-python-dotenv
-
-pip install google-genai
-pip freeze > requirments.txt
